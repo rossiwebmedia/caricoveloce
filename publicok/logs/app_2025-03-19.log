@@ -1,0 +1,6 @@
+[2025-03-19 07:29:09] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-19 07:29:09] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-19 07:29:09] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-19 08:24:24] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-19 08:24:24] [INFO] Reindirizzamento a login.php da: inserimento_prodotti.php - Utente non autenticato
+[2025-03-19 08:24:24] [DEBUG] Inizializzazione pagina: login.php

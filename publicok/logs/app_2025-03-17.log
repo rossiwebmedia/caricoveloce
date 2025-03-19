@@ -1,0 +1,1262 @@
+[2025-03-17 00:03:12] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-17 00:03:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:12] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:03:12] [DEBUG] Dati inviati: {"sku":"asddsa","ean":"8012345001231","title":"adsasd"}...
+[2025-03-17 00:03:12] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:03:13] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 00:03:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:21] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-17 00:03:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:21] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post/POST?ApiKey=[HIDDEN] [Metodo: GET]
+[2025-03-17 00:03:21] [DEBUG] Dati inviati: {"sku":"semplice","ean":"8012345001194","title":"semplice"}...
+[2025-03-17 00:03:21] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:03:21] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-17 00:03:23] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 00:03:23] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:30] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-17 00:03:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post/POST?ApiKey=[HIDDEN] [Metodo: GET]
+[2025-03-17 00:03:30] [DEBUG] Dati inviati: {"sku":"giovanni","ean":"","title":"fias sadj"}...
+[2025-03-17 00:03:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:03:30] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-17 00:03:32] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 00:03:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:36] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 00:03:36] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:41] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-17 00:03:41] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:03:41] [ERROR] Errore nell'invio a Smarty: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'giovanni' for key 'prodotti.sku'
+[2025-03-17 00:03:52] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 00:03:52] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:02] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 00:04:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:02] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 00:04:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:19] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:19] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:19] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:19] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:20] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:21] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:21] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:22] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 00:04:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:27] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-17 00:04:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:04:27] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:27] [DEBUG] Dati inviati: {"sku":"testcsarpe","title":"test scatpew","description":""}...
+[2025-03-17 00:04:27] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:27] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:27] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-35-bianco","ean":"8012345001248"}...
+[2025-03-17 00:04:28] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:28] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:28] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-36-bianco","ean":"8012345001262"}...
+[2025-03-17 00:04:28] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:28] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:28] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-37-bianco","ean":"8012345001279"}...
+[2025-03-17 00:04:28] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:28] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:28] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-38-bianco","ean":"8012345001286"}...
+[2025-03-17 00:04:29] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:29] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:29] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-39-bianco","ean":"8012345001293"}...
+[2025-03-17 00:04:29] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:29] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:29] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-40-bianco","ean":"8012345001309"}...
+[2025-03-17 00:04:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:30] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-41-bianco","ean":"8012345001316"}...
+[2025-03-17 00:04:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:30] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-35-blu","ean":"8012345001323"}...
+[2025-03-17 00:04:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:30] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-36-blu","ean":"8012345001330"}...
+[2025-03-17 00:04:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:31] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-37-blu","ean":"8012345001347"}...
+[2025-03-17 00:04:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:31] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-38-blu","ean":"8012345001354"}...
+[2025-03-17 00:04:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:31] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-39-blu","ean":"8012345001361"}...
+[2025-03-17 00:04:32] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:32] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:32] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-40-blu","ean":"8012345001378"}...
+[2025-03-17 00:04:32] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:32] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:32] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-41-blu","ean":""}...
+[2025-03-17 00:04:33] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:33] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:33] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-35-nero","ean":""}...
+[2025-03-17 00:04:33] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:33] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:33] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-36-nero","ean":""}...
+[2025-03-17 00:04:33] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:33] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:33] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-37-nero","ean":""}...
+[2025-03-17 00:04:34] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:34] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:34] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-38-nero","ean":""}...
+[2025-03-17 00:04:34] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:34] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:34] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-39-nero","ean":""}...
+[2025-03-17 00:04:35] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:35] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:35] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-40-nero","ean":""}...
+[2025-03-17 00:04:35] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:35] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:35] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-41-nero","ean":""}...
+[2025-03-17 00:04:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:36] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-35-rosso","ean":""}...
+[2025-03-17 00:04:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:36] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-36-rosso","ean":""}...
+[2025-03-17 00:04:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:36] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-37-rosso","ean":""}...
+[2025-03-17 00:04:37] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:37] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:37] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-38-rosso","ean":""}...
+[2025-03-17 00:04:37] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:37] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:37] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-39-rosso","ean":""}...
+[2025-03-17 00:04:38] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:38] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:38] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-40-rosso","ean":""}...
+[2025-03-17 00:04:38] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:38] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:38] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-41-rosso","ean":""}...
+[2025-03-17 00:04:39] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:39] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:39] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-35-verde","ean":""}...
+[2025-03-17 00:04:39] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:39] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:39] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-36-verde","ean":""}...
+[2025-03-17 00:04:40] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:40] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:40] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-37-verde","ean":""}...
+[2025-03-17 00:04:40] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:40] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:40] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-38-verde","ean":""}...
+[2025-03-17 00:04:41] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:41] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:41] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-39-verde","ean":""}...
+[2025-03-17 00:04:41] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:41] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:41] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-40-verde","ean":""}...
+[2025-03-17 00:04:42] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:42] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 00:04:42] [DEBUG] Dati inviati: {"product_id":7332,"sku":"testcsarpe-41-verde","ean":""}...
+[2025-03-17 00:04:43] [DEBUG] Risposta HTTP: 200
+[2025-03-17 00:04:44] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 00:04:44] [DEBUG] Connessione al database riuscita
+[2025-03-17 00:41:18] [DEBUG] Inizializzazione pagina: esporta_prodotti.php
+[2025-03-17 00:41:18] [INFO] Reindirizzamento a login.php da: esporta_prodotti.php - Utente non autenticato
+[2025-03-17 00:41:18] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 08:37:35] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 08:37:35] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 08:37:35] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 11:36:02] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 11:36:02] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 11:36:02] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 11:36:13] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 11:36:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:13] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 11:36:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:13] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:13] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:13] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:15] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 11:36:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:15] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 11:36:15] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 11:36:25] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 11:36:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:49] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 11:36:49] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:49] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:49] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:49] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 11:36:49] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 11:36:49] [DEBUG] Connessione al database riuscita
+[2025-03-17 11:36:50] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 11:36:50] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 14:43:50] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 14:43:50] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 14:43:50] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 14:43:59] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 14:43:59] [DEBUG] Connessione al database riuscita
+[2025-03-17 14:43:59] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 14:43:59] [DEBUG] Connessione al database riuscita
+[2025-03-17 14:43:59] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 14:43:59] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 14:43:59] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 14:44:00] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 14:44:00] [DEBUG] Connessione al database riuscita
+[2025-03-17 14:44:00] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 14:44:00] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 14:44:04] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 14:44:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 14:44:44] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 14:44:44] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:12:30] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:12:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:12:39] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:12:39] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:13:23] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:13:23] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:13:59] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:13:59] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:10] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:14:10] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:10] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:14:10] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:33] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:14:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:42] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:14:42] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:47] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:14:47] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:52] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:14:52] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:52] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:14:52] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:54] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:14:54] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:54] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:14:54] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:14:54] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:14:54] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:14:54] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:14:54] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:14:54] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 15:14:56] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:14:56] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:04] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:15:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:04] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:15:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:11] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:11] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:13] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:14] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:15] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:15] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:15] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:15:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:27] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-17 15:15:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:27] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:27] [DEBUG] Dati inviati: {"sku":"ciao","title":"Donna ciao","description":""}...
+[2025-03-17 15:15:28] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:28] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:28] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-35-bianco","ean":"8012345000012"}...
+[2025-03-17 15:15:28] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:28] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:28] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-36-bianco","ean":"8012345000029"}...
+[2025-03-17 15:15:29] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:29] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:29] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-37-bianco","ean":"8012345000036"}...
+[2025-03-17 15:15:29] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:29] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:29] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-38-bianco","ean":"8012345000043"}...
+[2025-03-17 15:15:29] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:29] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:29] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-39-bianco","ean":"8012345000050"}...
+[2025-03-17 15:15:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:30] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-40-bianco","ean":"8012345000067"}...
+[2025-03-17 15:15:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:30] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-41-bianco","ean":"8012345000074"}...
+[2025-03-17 15:15:30] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:30] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:30] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-35-blu","ean":"8012345000081"}...
+[2025-03-17 15:15:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:31] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-36-blu","ean":"8012345000098"}...
+[2025-03-17 15:15:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:31] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-37-blu","ean":"8012345000104"}...
+[2025-03-17 15:15:31] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:31] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:31] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-38-blu","ean":"8012345000111"}...
+[2025-03-17 15:15:32] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:32] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:32] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-39-blu","ean":"8012345000128"}...
+[2025-03-17 15:15:32] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:32] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:32] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-40-blu","ean":"8012345000135"}...
+[2025-03-17 15:15:33] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:33] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:33] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-41-blu","ean":"8012345000142"}...
+[2025-03-17 15:15:33] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:33] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:33] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-35-nero","ean":"8012345000159"}...
+[2025-03-17 15:15:34] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:34] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:34] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-36-nero","ean":"8012345000166"}...
+[2025-03-17 15:15:34] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:34] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:34] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-37-nero","ean":"8012345000173"}...
+[2025-03-17 15:15:34] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:34] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:34] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-38-nero","ean":"8012345000180"}...
+[2025-03-17 15:15:35] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:35] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:35] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-39-nero","ean":"8012345000197"}...
+[2025-03-17 15:15:35] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:35] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:35] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-40-nero","ean":"8012345000203"}...
+[2025-03-17 15:15:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:36] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-41-nero","ean":"8012345000210"}...
+[2025-03-17 15:15:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:36] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-35-rosso","ean":"8012345000227"}...
+[2025-03-17 15:15:36] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:36] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:36] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-36-rosso","ean":"8012345000234"}...
+[2025-03-17 15:15:37] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:37] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:37] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-37-rosso","ean":"8012345000241"}...
+[2025-03-17 15:15:37] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:37] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:37] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-38-rosso","ean":"8012345000258"}...
+[2025-03-17 15:15:38] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:38] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:38] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-39-rosso","ean":"8012345000265"}...
+[2025-03-17 15:15:38] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:38] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:38] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-40-rosso","ean":"8012345000272"}...
+[2025-03-17 15:15:39] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:39] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:39] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-41-rosso","ean":"8012345000289"}...
+[2025-03-17 15:15:39] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:39] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:39] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-35-verde","ean":"8012345000296"}...
+[2025-03-17 15:15:40] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:40] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:40] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-36-verde","ean":"8012345000302"}...
+[2025-03-17 15:15:40] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:40] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:40] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-37-verde","ean":"8012345000319"}...
+[2025-03-17 15:15:41] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:41] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:41] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-38-verde","ean":"8012345000326"}...
+[2025-03-17 15:15:41] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:41] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:41] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-39-verde","ean":"8012345000333"}...
+[2025-03-17 15:15:43] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:43] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:43] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-40-verde","ean":"8012345000340"}...
+[2025-03-17 15:15:43] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:43] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:15:43] [DEBUG] Dati inviati: {"product_id":7333,"sku":"ciao-41-verde","ean":"8012345000357"}...
+[2025-03-17 15:15:44] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:15:44] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:15:44] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:15:59] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:15:59] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:12] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:16:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:13] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:16:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:13] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:16:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:25] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:16:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:27] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-17 15:16:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:27] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:16:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:32] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-17 15:16:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:32] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post/POST?ApiKey=[HIDDEN] [Metodo: GET]
+[2025-03-17 15:16:32] [DEBUG] Dati inviati: {"sku":"testissitimo1234","ean":"","title":"Scarpe donna testissitimo1234"}...
+[2025-03-17 15:16:32] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:16:32] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-17 15:16:52] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:16:52] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:16:55] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:16:55] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:20:18] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:20:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:20:24] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-17 15:20:24] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:20:24] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:24] [DEBUG] Dati inviati: {"sku":"testissitimo1234","ean":"","title":"Scarpe donna testissitimo1234"}...
+[2025-03-17 15:20:24] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:24] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:24] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-35","ean":"8012345000364"}...
+[2025-03-17 15:20:24] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:24] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:24] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-36","ean":"8012345000371"}...
+[2025-03-17 15:20:25] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:25] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:25] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-37","ean":"8012345000388"}...
+[2025-03-17 15:20:25] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:25] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:25] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-38","ean":"8012345000395"}...
+[2025-03-17 15:20:26] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:26] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:26] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-39","ean":"8012345000401"}...
+[2025-03-17 15:20:26] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:26] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:26] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-40","ean":"8012345000418"}...
+[2025-03-17 15:20:26] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:26] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Variations/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-17 15:20:26] [DEBUG] Dati inviati: {"product_id":7334,"sku":"testissitimo1234-41","ean":"8012345000425"}...
+[2025-03-17 15:20:27] [DEBUG] Risposta HTTP: 200
+[2025-03-17 15:20:28] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:20:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:22:09] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:22:09] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:22:12] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:22:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:22:14] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:22:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:00] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:47:00] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 15:47:00] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:47:03] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:47:03] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:14] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:47:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:26] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:47:26] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:26] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:47:26] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:26] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:47:27] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:47:27] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:47:27] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:47:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:47:27] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:47:27] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 15:48:46] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:48:46] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:48:46] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:48:46] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:48:46] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:48:47] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:48:47] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:48:47] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:48:47] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 15:49:07] [DEBUG] Inizializzazione pagina: impostazioni.php
+[2025-03-17 15:49:07] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:49:47] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:49:47] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:00] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:50:00] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:05] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 15:50:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:10] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 15:50:10] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:18] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:50:18] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:50:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:18] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:18] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:18] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:19] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:50:19] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:19] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:50:19] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 15:50:22] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:50:22] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:50:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:22] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:22] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:22] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:50:22] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:50:22] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:50:22] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:50:22] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 15:50:25] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:50:25] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:00] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:00] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:00] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:00] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:05] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:08] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:11] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:11] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:13] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:13] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:15] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:17] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:51:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:43] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-17 15:51:43] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:43] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:51:43] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:51:47] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:51:47] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:04] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:04] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:05] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:05] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:05] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:05] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 15:52:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:28] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:29] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:30] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:30] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:31] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:52:32] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 15:52:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:10] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-17 15:53:10] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:10] [ERROR] Errore nel salvataggio del prodotto: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'NomeModello' for key 'prodotti.sku'
+[2025-03-17 15:53:10] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 15:53:10] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:17] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:53:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:28] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 15:53:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:32] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 15:53:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:34] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 15:53:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:36] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 15:53:36] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:38] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-17 15:53:38] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:53:46] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:53:46] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:54:04] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 15:54:04] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:54:09] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 15:54:09] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:54:18] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 15:54:18] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 15:54:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:54:18] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:54:18] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:54:18] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 15:54:18] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 15:54:18] [DEBUG] Connessione al database riuscita
+[2025-03-17 15:54:18] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 15:54:18] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:04:57] [DEBUG] Inizializzazione pagina: gestione_prodottiNEW.php
+[2025-03-17 16:04:57] [INFO] Reindirizzamento a login.php da: gestione_prodottiNEW.php - Utente non autenticato
+[2025-03-17 16:04:57] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:05:02] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:05:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:05:02] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:05:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:05:02] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:05:02] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:05:02] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:05:02] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:05:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:05:02] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:05:02] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:05:05] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 16:05:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:05:10] [DEBUG] Inizializzazione pagina: gestione_prodottiNEW.php
+[2025-03-17 16:08:42] [DEBUG] Inizializzazione pagina: gestione_prodottiNEW.php
+[2025-03-17 16:08:42] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:09:07] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 16:09:07] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:09:07] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 16:09:07] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:09:17] [DEBUG] Inizializzazione pagina: gestione_prodottiNEW.php
+[2025-03-17 16:09:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:09:28] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 16:09:28] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:10:26] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:10:26] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:10:26] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:10:26] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:10:26] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:10:26] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:10:26] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:10:27] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:10:27] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:10:37] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:10:37] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:02] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:11:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:02] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:11:02] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:11:02] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:11:02] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:11:02] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:02] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:11:02] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:11:05] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:05] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:07] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:07] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:15] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:15] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:17] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:17] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:11:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:19] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:19] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:20] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:29] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-17 16:11:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:32] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:11:32] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:11:33] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:11:33] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:26] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:17:26] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:27] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:17:27] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:31] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:17:31] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:35] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:17:35] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:37] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:17:37] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:37] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:37] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:37] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:37] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:17:37] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:37] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:17:37] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:17:38] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:17:38] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:17:38] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:38] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:38] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:38] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:17:38] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:17:38] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:38] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:17:38] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 16:17:39] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-17 16:17:39] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:49] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 16:17:49] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:49] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-17 16:17:49] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:17:58] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-17 16:17:58] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:03] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-17 16:18:03] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:03] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 16:18:03] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:06] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:06] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:12] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:12] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:14] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:14] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:17] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:17] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:20] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:20] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:23] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-17 16:18:23] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:29] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:29] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:34] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:34] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:35] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:35] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:37] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:37] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:37] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:37] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:18:42] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:18:42] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:19:53] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:19:53] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 16:19:53] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:19:57] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-17 16:19:57] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:20:17] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:20:17] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-17 16:20:17] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:20:35] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-17 16:20:35] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:20:35] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-17 16:20:35] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:20:35] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:20:35] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:20:35] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-17 16:20:35] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-17 16:20:35] [DEBUG] Connessione al database riuscita
+[2025-03-17 16:20:36] [DEBUG] API Check - HTTP Code: 200
+[2025-03-17 16:20:36] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-17 19:40:30] [DEBUG] Inizializzazione pagina: login.php

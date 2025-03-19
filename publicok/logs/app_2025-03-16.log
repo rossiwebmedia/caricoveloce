@@ -1,0 +1,519 @@
+[2025-03-16 01:03:40] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:03:40] [INFO] Reindirizzamento a login.php da: inserimento_multiplo_prodotti.php - Utente non autenticato
+[2025-03-16 01:03:40] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:03:46] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:03:46] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:03:53] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:03:53] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:03:53] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 01:03:53] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:03:53] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:03:53] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:03:53] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:03:56] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 01:03:56] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:04:01] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:04:01] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:16:02] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:16:02] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:24:43] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:24:43] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:29:17] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:29:17] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:31:19] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 01:31:19] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:31:21] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:31:21] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:36:11] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:36:11] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:14] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 01:39:14] [INFO] Reindirizzamento a login.php da: inserimento_prodotti.php - Utente non autenticato
+[2025-03-16 01:39:14] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:39:22] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:39:22] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:22] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 01:39:22] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:22] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:22] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:22] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:22] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 01:39:22] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:22] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 01:39:22] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 01:39:30] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 01:39:30] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 01:39:30] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:30] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:30] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:30] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 01:39:30] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 01:39:30] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:30] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 01:39:30] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 01:39:37] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 01:39:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:40] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 01:39:40] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:42] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 01:39:42] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:43] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 01:39:43] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:45] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 01:39:45] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:47] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 01:39:47] [DEBUG] Connessione al database riuscita
+[2025-03-16 01:39:51] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 01:39:51] [DEBUG] Connessione al database riuscita
+[2025-03-16 02:33:26] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 02:33:26] [INFO] Reindirizzamento a login.php da: gestione_ean.php - Utente non autenticato
+[2025-03-16 09:23:27] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 09:23:27] [INFO] Reindirizzamento a login.php da: inserimento_multiplo_prodotti.php - Utente non autenticato
+[2025-03-16 09:23:28] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 09:23:33] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 09:23:33] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:23:33] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 09:23:33] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:23:33] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:23:33] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:23:33] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:23:33] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 09:23:33] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:23:33] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 09:23:33] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 09:23:36] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 09:23:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:24:09] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 09:24:09] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:24:12] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 09:24:12] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:24:37] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 09:24:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:24:49] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 09:24:49] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:34:28] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 09:34:29] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 09:34:29] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:34:29] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:34:29] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:34:29] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:34:29] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 09:34:29] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:34:29] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 09:34:29] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 09:34:32] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 09:34:32] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:34:38] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 09:34:38] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:34:43] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 09:34:43] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:37:15] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-16 09:37:15] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:46:58] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 09:47:08] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-16 09:47:08] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:47:08] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 09:47:08] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:47:08] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:47:08] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:47:08] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 09:47:09] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 09:47:09] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:47:09] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 09:47:09] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 09:47:10] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 09:47:10] [DEBUG] Connessione al database riuscita
+[2025-03-16 09:47:27] [DEBUG] Inizializzazione pagina: esporta_prodotti.php
+[2025-03-16 09:47:27] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:12] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 23:36:12] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:22] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:36:22] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:22] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:22] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:22] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:22] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:36:22] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:23] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:36:23] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:36:24] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 23:36:24] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:26] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:36:26] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:26] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:26] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:26] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:36:26] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:36:26] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:36:27] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:36:27] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:37:52] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:37:52] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:37:52] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:37:52] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:37:52] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:37:52] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:37:52] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:37:52] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:37:52] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:37:54] [DEBUG] Inizializzazione pagina: gestione_ean.php
+[2025-03-16 23:37:54] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:37:54] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-16 23:37:54] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:01] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 23:38:01] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:14] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 23:38:14] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:14] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 23:38:14] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:34] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:34] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:35] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:35] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:35] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:35] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:35] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:35] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:35] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:35] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:35] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:35] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:36] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:36] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:37] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:37] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:38] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:38] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:38] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:38:38] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:41] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-16 23:38:42] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:42] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 23:38:42] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:46] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-16 23:38:46] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:46] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN]&action=POST&sku=giovanni&ean=&title=fias+sadj&description=&description_short=&price=29.9&purchase_price=10&tax_id=22&brand=Ciabal%C3%B9&stock=0&supplier%5B0%5D=RWM+S.R.L.
+[2025-03-16 23:38:46] [ERROR] Errore JSON: Syntax error - Risposta: 
+[2025-03-16 23:38:46] [ERROR] Eccezione API: Risposta non valida dall'API: Syntax error
+[2025-03-16 23:38:48] [DEBUG] Inizializzazione pagina: vista_prodotto.php
+[2025-03-16 23:38:48] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:38:57] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 23:38:57] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:10] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 23:39:10] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:18] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:39:18] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:21] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-16 23:39:21] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:21] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN]&action=POST&sku=semplice&ean=8012345001194&title=semplice&description=&description_short=&price=19.9&purchase_price=5&tax_id=22&brand=Ciabal%C3%B9&stock=0&supplier%5B0%5D=RWM+S.R.L.
+[2025-03-16 23:39:21] [ERROR] Errore API: Invalid request method
+[2025-03-16 23:39:21] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-16 23:39:21] [ERROR] Errore nell'invio a Smarty: Errore nella creazione del prodotto su Smarty: {"success":false,"message":"Errore API: Invalid request method","exception":true}
+[2025-03-16 23:39:31] [DEBUG] Inizializzazione pagina: salva_prodotto.php
+[2025-03-16 23:39:31] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:31] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 23:39:31] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:33] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-16 23:39:33] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:55] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:39:55] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:55] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:55] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:55] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:55] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:39:55] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:55] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:39:55] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:39:59] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:39:59] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:59] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:59] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:59] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:39:59] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:39:59] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:39:59] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:39:59] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:40:02] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-16 23:40:02] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:40:02] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:40:02] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:40:02] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-16 23:40:02] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-16 23:40:02] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:40:02] [DEBUG] API Check - HTTP Code: 200
+[2025-03-16 23:40:02] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-16 23:46:01] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 23:46:01] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:46:11] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-16 23:46:11] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:46:11] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN]&action=POST&sku=semplice&ean=8012345001194&title=semplice&description=&description_short=&price=19.9&purchase_price=5&tax_id=22&brand=Ciabal%C3%B9&stock=0&supplier%5B0%5D=RWM+S.R.L.
+[2025-03-16 23:46:11] [ERROR] Errore JSON: Syntax error - Risposta: 
+[2025-03-16 23:46:11] [ERROR] Eccezione API: Risposta non valida dall'API: Syntax error
+[2025-03-16 23:57:44] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-16 23:57:44] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:57:50] [DEBUG] Inizializzazione pagina: api_sincronizza_prodotto.php
+[2025-03-16 23:57:50] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:57:50] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post/POST?ApiKey=[HIDDEN] [Metodo: GET]
+[2025-03-16 23:57:51] [DEBUG] Risposta HTTP: 200
+[2025-03-16 23:57:51] [ERROR] Errore API: Invalid request method
+[2025-03-16 23:57:51] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-16 23:57:54] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-16 23:57:54] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:58:02] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-16 23:58:02] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:58:12] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-16 23:58:12] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:58:15] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-16 23:58:15] [DEBUG] Connessione al database riuscita
+[2025-03-16 23:58:15] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post/POST?ApiKey=[HIDDEN] [Metodo: GET]
+[2025-03-16 23:58:15] [DEBUG] Risposta HTTP: 200
+[2025-03-16 23:58:15] [ERROR] Errore API: Invalid request method
+[2025-03-16 23:58:15] [ERROR] Eccezione API: Errore API: Invalid request method
+[2025-03-16 23:58:15] [ERROR] Errore nell'invio a Smarty: Errore nella creazione del prodotto su Smarty: {"success":false,"message":"Errore API: Invalid request method","exception":true}

@@ -1,0 +1,129 @@
+[2025-03-18 10:48:44] [DEBUG] Inizializzazione pagina: visualizza_ean.php
+[2025-03-18 10:48:44] [INFO] Reindirizzamento a login.php da: visualizza_ean.php - Utente non autenticato
+[2025-03-18 10:48:44] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-18 11:05:48] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-18 11:05:48] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-18 11:05:48] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-18 11:05:55] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-18 11:05:55] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:05:55] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-18 11:05:55] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:05:55] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:05:55] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:05:55] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:05:55] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-18 11:05:55] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:05:55] [DEBUG] API Check - HTTP Code: 200
+[2025-03-18 11:05:55] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-18 11:06:55] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-18 11:06:55] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-18 11:06:55] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:06:55] [ERROR] [E_WARNING] Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:06:55] [ERROR] [E_WARNING] Use of undefined constant message - assumed 'message' (this will throw an Error in a future version of PHP) in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:06:55] [ERROR] [E_NOTICE] Undefined variable: responsemessage in /home/h6xt66s7/public_html/caricoveloce/index.php on line 276
+[2025-03-18 11:06:55] [DEBUG] Inizializzazione pagina: api_check.php
+[2025-03-18 11:06:55] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:06:55] [DEBUG] API Check - HTTP Code: 200
+[2025-03-18 11:06:55] [DEBUG] API Check - Response: [
+    {
+        "id": "6839",
+        "active": 1,
+        "created": "2024-07-16T16:33:26+02:00",
+        "last_update": "2025-02-06T12:14:31+01:00",
+        "title": "",
+        "description": "",
+        "description_short": "",
+        "translations": {
+            "1": {
+                "name": "",
+                "description": "",
+                "description_short": ""
+            },
+            "2": {
+                "name": "",
+                "description": "",
+                "descri
+[2025-03-18 11:06:56] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:06:56] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:07] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:07:07] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:07] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:07:07] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:11] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-18 11:07:11] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:56] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-18 11:07:56] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:56] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-18 11:07:56] [DEBUG] Dati API inviati: {"sku":"testgivoanni","ean":"8012345000906","title":"Uomo testgivoanni","description":"","description_short":"","price":29.9,"purchase_price":10,"tax_id":22,"brand":"Ciabal\u00f9","stock":0}...
+[2025-03-18 11:07:56] [DEBUG] Risposta HTTP: 200
+[2025-03-18 11:07:57] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-18 11:07:57] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:07:59] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:07:59] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:06] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:08] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:08] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:09] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:09] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:09] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:09] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:09] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:08:09] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:12] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-18 11:08:12] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:08:12] [ERROR] Errore nell'invio a Smarty: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testgivoanni' for key 'prodotti.sku'
+[2025-03-18 11:08:35] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:08:35] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:11:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:11:08] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:11:08] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:11:08] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:11:10] [DEBUG] Inizializzazione pagina: getNextEAN.php
+[2025-03-18 11:11:10] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:11:15] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-18 11:11:15] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:11:15] [DEBUG] Chiamata API a: https://www.gestionalesmarty.com/titanium/V2/Api/Products/post?ApiKey=[HIDDEN] [Metodo: POST]
+[2025-03-18 11:11:15] [DEBUG] Dati API inviati: {"sku":"testissimo1","ean":"8012345000913","title":"Uomo testissimo1","description":"","description_short":"","price":29.9,"purchase_price":10,"tax_id":22,"brand":"Ciabal\u00f9","stock":0}...
+[2025-03-18 11:11:15] [DEBUG] Risposta HTTP: 200
+[2025-03-18 11:11:17] [DEBUG] Inizializzazione pagina: gestione_prodotti.php
+[2025-03-18 11:11:17] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:16] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:12:16] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:31] [DEBUG] Inizializzazione pagina: api_calcola_prezzo.php
+[2025-03-18 11:12:31] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:33] [DEBUG] Inizializzazione pagina: api_send_to_smarty.php
+[2025-03-18 11:12:33] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:33] [ERROR] Errore nell'invio a Smarty: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testissimo1' for key 'prodotti.sku'
+[2025-03-18 11:12:47] [DEBUG] Inizializzazione pagina: inserimento_multiplo_prodotti.php
+[2025-03-18 11:12:47] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:48] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:12:48] [DEBUG] Connessione al database riuscita
+[2025-03-18 11:12:49] [DEBUG] Inizializzazione pagina: inserimento_prodotti.php
+[2025-03-18 11:12:49] [DEBUG] Connessione al database riuscita
+[2025-03-18 19:33:41] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-18 19:33:41] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-18 19:33:41] [DEBUG] Inizializzazione pagina: login.php
+[2025-03-18 19:34:05] [DEBUG] Inizializzazione pagina: index.php
+[2025-03-18 19:34:05] [INFO] Reindirizzamento a login.php da: index.php - Utente non autenticato
+[2025-03-18 19:34:05] [DEBUG] Inizializzazione pagina: login.php

@@ -1,0 +1,97 @@
+/* Stile per i box tipo prodotto */
+.product-type-card {
+    transition: all 0.3s ease;
+    cursor: pointer;
+    height: 100%;
+    border: 2px solid #e9ecef;
+}
+
+.product-type-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.product-type-card.selected {
+    border-color: #0d6efd;
+}
+
+.product-type-card.selected .product-type-selector {
+    height: 4px;
+    background-color: #0d6efd;
+}
+
+/* Campi di input modernizzati */
+.form-control, .form-select {
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid #dee2e6;
+    transition: all 0.2s ease;
+}
+
+.form-control:focus, .form-select:focus {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+}
+
+/* Badge per taglie e colori */
+.badge.bg-primary, .badge.bg-secondary {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.75rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 2rem;
+}
+
+/* Tooltips assistenza */
+.input-help {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6c757d;
+    cursor: pointer;
+}
+
+.input-group-with-helper {
+    position: relative;
+}
+
+/* Assistente di digitazione */
+.typeahead-suggestions {
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    background: white;
+    border: 1px solid #ced4da;
+    border-radius: 0 0 0.5rem 0.5rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.typeahead-suggestion {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.typeahead-suggestion:hover {
+    background-color: #f8f9fa;
+}
+
+.typeahead-suggestion.active {
+    background-color: #e9ecef;
+}
+
+/* Animazione di loading */
+.loading-spinner {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid rgba(0, 123, 255, 0.2);
+    border-radius: 50%;
+    border-top-color: #0d6efd;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
